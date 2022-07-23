@@ -1,4 +1,4 @@
-# IntentKotlin
+# KotlinIntent
 
 Android Development / Kotlin Tutorial - Lesson 6
 
